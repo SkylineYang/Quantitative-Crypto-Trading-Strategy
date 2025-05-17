@@ -2,7 +2,7 @@
 
 ### 1. How to run our code?
 
-Our main work is located in `Project3_Stage1.ipynb`, so please refer to this specific file.
+Our main work is located in `Project3_Stage1&2.ipynb`, so please refer to this specific file.
 
 In this file, first 1-3 parts are our research and design, the 4th part is the backtest (which we highly recommand you to directly run).
 
