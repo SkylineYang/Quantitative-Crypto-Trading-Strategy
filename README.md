@@ -1,7 +1,5 @@
 # Project 3: Crypto Algorithm Trading, Stage 1
 
-## Team 1: Yang She, Zhuofan Tang and Kenza Slaoui
-
 ### 1. How to run our code?
 
 Our main work is located in `Project3_Stage1.ipynb`, so please refer to this specific file.
