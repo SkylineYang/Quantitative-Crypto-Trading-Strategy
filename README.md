@@ -1,4 +1,4 @@
-# Project 3: Crypto Algorithm Trading, Stage 1
+# Project 3: Crypto Algorithm Trading
 
 ### 1. How to run our code?
 
